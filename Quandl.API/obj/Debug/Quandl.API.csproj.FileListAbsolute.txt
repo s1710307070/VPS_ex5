@@ -1,0 +1,9 @@
+U:\Fachhochschule\VPS5\Exercise5\Quandl.API\bin\Debug\Data\AAPL.xml
+U:\Fachhochschule\VPS5\Exercise5\Quandl.API\bin\Debug\Data\GOOG.xml
+U:\Fachhochschule\VPS5\Exercise5\Quandl.API\bin\Debug\Data\MSFT.xml
+U:\Fachhochschule\VPS5\Exercise5\Quandl.API\bin\Debug\Quandl.API.dll
+U:\Fachhochschule\VPS5\Exercise5\Quandl.API\bin\Debug\Quandl.API.pdb
+U:\Fachhochschule\VPS5\Exercise5\Quandl.API\obj\Debug\Quandl.API.csprojAssemblyReference.cache
+U:\Fachhochschule\VPS5\Exercise5\Quandl.API\obj\Debug\Quandl.API.csproj.CoreCompileInputs.cache
+U:\Fachhochschule\VPS5\Exercise5\Quandl.API\obj\Debug\Quandl.API.dll
+U:\Fachhochschule\VPS5\Exercise5\Quandl.API\obj\Debug\Quandl.API.pdb

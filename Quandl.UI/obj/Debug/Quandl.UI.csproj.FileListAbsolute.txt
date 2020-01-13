@@ -1,0 +1,13 @@
+U:\Fachhochschule\VPS5\Exercise5\Quandl.UI\bin\Debug\Data\AAPL.xml
+U:\Fachhochschule\VPS5\Exercise5\Quandl.UI\bin\Debug\Data\GOOG.xml
+U:\Fachhochschule\VPS5\Exercise5\Quandl.UI\bin\Debug\Data\MSFT.xml
+U:\Fachhochschule\VPS5\Exercise5\Quandl.UI\bin\Debug\Quandl.UI.exe.config
+U:\Fachhochschule\VPS5\Exercise5\Quandl.UI\bin\Debug\Quandl.UI.exe
+U:\Fachhochschule\VPS5\Exercise5\Quandl.UI\bin\Debug\Quandl.UI.pdb
+U:\Fachhochschule\VPS5\Exercise5\Quandl.UI\bin\Debug\Quandl.API.dll
+U:\Fachhochschule\VPS5\Exercise5\Quandl.UI\bin\Debug\Quandl.API.pdb
+U:\Fachhochschule\VPS5\Exercise5\Quandl.UI\obj\Debug\Quandl.UI.csprojAssemblyReference.cache
+U:\Fachhochschule\VPS5\Exercise5\Quandl.UI\obj\Debug\Quandl.UI.csproj.CoreCompileInputs.cache
+U:\Fachhochschule\VPS5\Exercise5\Quandl.UI\obj\Debug\Quandl.UI.csproj.CopyComplete
+U:\Fachhochschule\VPS5\Exercise5\Quandl.UI\obj\Debug\Quandl.UI.exe
+U:\Fachhochschule\VPS5\Exercise5\Quandl.UI\obj\Debug\Quandl.UI.pdb
